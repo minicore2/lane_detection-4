@@ -1,7 +1,9 @@
 ####################################
-# 		lane_detection			   #
+# 		  lane_detection			       #
 ####################################
-Tp compile:
+
+To compile:
+
 cd lane_detection && make
 
-opencv is a must
+*opencv is a must
